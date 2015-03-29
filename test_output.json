@@ -1,0 +1,106 @@
+[
+  {
+    "audio" : "s0_0.mp3",
+    "slide" : [
+      {
+        "audio" : "s0_1.mp3",
+        "img" : "Raining.jpg",
+        "text" : "First rain,"
+      },
+      {
+        "audio" : "s0_2.mp3",
+        "img" : "Rainbow.jpg",
+        "text" : "then rainbow."
+      }
+    ]
+  },
+  {
+    "audio" : "s1_0.mp3",
+    "slide" : [
+      {
+        "audio" : "s1_1.mp3",
+        "img" : "Land.jpg",
+        "text" : "Sea"
+      },
+      {
+        "audio" : "s1_2.mp3",
+        "img" : "Clouds.jpg",
+        "text" : "and clouds"
+      },
+      {
+        "audio" : "s1_3.mp3",
+        "img" : "Sunshine.jpg",
+        "text" : "make a sunny day."
+      }
+    ]
+  },
+  {
+    "audio" : "s2_0.mp3",
+    "slide" : [
+      {
+        "audio" : "s2_1.mp3",
+        "img" : "Raining.jpg",
+        "text" : "Erste regen,"
+      },
+      {
+        "audio" : "s2_2.mp3",
+        "img" : "Rainbow.jpg",
+        "text" : "dann Regenbogen."
+      }
+    ]
+  },
+  {
+    "audio" : "s3_0.mp3",
+    "slide" : [
+      {
+        "audio" : "s3_1.mp3",
+        "img" : "Land.jpg",
+        "text" : "Meer"
+      },
+      {
+        "audio" : "s3_2.mp3",
+        "img" : "Clouds.jpg",
+        "text" : "und Wolken"
+      },
+      {
+        "audio" : "s3_3.mp3",
+        "img" : "Sunshine.jpg",
+        "text" : "machen einen sonnigen Tag."
+      }
+    ]
+  },  {
+    "audio" : "s4_0.mp3",
+    "slide" : [
+      {
+        "audio" : "s4_1.mp3",
+        "img" : "Raining.jpg",
+        "text" : "首先是下雨，"
+      },
+      {
+        "audio" : "s4_2.mp3",
+        "img" : "Rainbow.jpg",
+        "text" : "然后是彩虹"
+      }
+    ]
+  },
+  {
+    "audio" : "s5_0.mp3",
+    "slide" : [
+      {
+        "audio" : "s5_1.mp3",
+        "img" : "Land.jpg",
+        "text" : "大海"
+      },
+      {
+        "audio" : "s5_2.mp3",
+        "img" : "Clouds.jpg",
+        "text" : "白云"
+      },
+      {
+        "audio" : "s5_3.mp3",
+        "img" : "Sunshine.jpg",
+        "text" : "带来了阳光灿烂的日子"
+      }
+    ]
+  }
+]
