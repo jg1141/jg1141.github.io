@@ -66,7 +66,7 @@ With Python 2:
 
 ```
 $ git clone https://github.com/jg1141/jg1141.github.io.git
-$ cd words_and_pictures
+$ cd jg1141.github.io/
 $ python -m SimpleHTTPServer
 ```
 
