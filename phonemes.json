@@ -1,0 +1,155 @@
+{
+  "block-type" : "words",
+  "language-default" : "Alex",
+  "slides" : [
+    {
+      "slide" : [
+        {
+          "img" : "img0.png",
+          "phoneme" : "s"
+        },
+        {
+          "img" : "img0.png",
+          "phoneme" : "IY"
+        }
+      ],
+      "word" : "sea"
+    },
+    {
+      "slide" : [
+        {
+          "img" : "img1.png",
+          "phoneme" : "AE"
+        },
+        {
+          "img" : "img1.png",
+          "phoneme" : "n"
+        },
+        {
+          "img" : "img1.png",
+          "phoneme" : "d"
+        }
+      ],
+      "word" : "and"
+    },
+    {
+      "slide" : [
+        {
+          "img" : "img2.png",
+          "phoneme" : "k"
+        },
+        {
+          "img" : "img2.png",
+          "phoneme" : "l"
+        },
+        {
+          "img" : "img2.png",
+          "phoneme" : "AW"
+        },
+        {
+          "img" : "img2.png",
+          "phoneme" : "d"
+        },
+        {
+          "img" : "img2.png",
+          "phoneme" : "z"
+        }
+      ],
+      "word" : "clouds"
+    },
+    {
+      "slide" : [
+        {
+          "img" : "img3.png",
+          "text" : "sea and clouds"
+        },
+        {
+          "img" : "img3.png",
+          "phoneme" : "m"
+        },
+        {
+          "img" : "img3.png",
+          "phoneme" : "EY"
+        },
+        {
+          "img" : "img3.png",
+          "phoneme" : "k"
+        }
+      ],
+      "word" : "make"
+    },
+    {
+      "slide" : [
+        {
+          "img" : "img4.png",
+          "phoneme" : "ff"
+        },
+        {
+          "img" : "img4.png",
+          "phoneme" : "OW"
+        },
+        {
+          "img" : "img4.png",
+          "phoneme" : "rr"
+        }
+      ],
+      "word" : "for"
+    },
+    {
+      "slide" : [
+        {
+          "img" : "img5.png",
+          "text" : "sea and clouds make for"
+        },
+        {
+          "img" : "img5.png",
+          "phoneme" : "UX"
+        }
+      ],
+      "word" : "sea and clouds make for [[inpt PHON]] UX"
+    },
+    {
+      "slide" : [
+        {
+          "img" : "img6.png",
+          "phoneme" : "s"
+        },
+        {
+          "img" : "img6.png",
+          "phoneme" : "AX"
+        },
+        {
+          "img" : "img6.png",
+          "phoneme" : "nn"
+        },
+        {
+          "img" : "img6.png",
+          "phoneme" : "IY"
+        }
+      ],
+      "word" : "sunny"
+    },
+    {
+      "slide" : [
+        {
+          "img" : "img7.png",
+          "phoneme" : "d"
+        },
+        {
+          "img" : "img7.png",
+          "phoneme" : "EY"
+        }
+      ],
+      "word" : "day"
+    },
+    {
+      "slide" : [
+        {
+          "img" : "img8.png",
+          "text" : "sea and clouds make for a sunny day"
+        }
+      ]
+    }
+  ],
+  "tts-engine" : "say"
+}

@@ -1,0 +1,105 @@
+{
+  "block-type" : "words",
+  "slides" : [
+    {
+      "slide" : [
+        {
+          "img" : "Raining.jpg",
+          "language" : "en-ca",
+          "text" : "First rain,"
+        },
+        {
+          "img" : "Rainbow.jpg",
+          "language" : "en-ca",
+          "text" : "then rainbow."
+        }
+      ]
+    },
+    {
+      "slide" : [
+        {
+          "img" : "Land.jpg",
+          "language" : "en-ca",
+          "text" : "Sea"
+        },
+        {
+          "img" : "Clouds.jpg",
+          "language" : "en-ca",
+          "text" : "and clouds"
+        },
+        {
+          "img" : "Sunshine.jpg",
+          "language" : "en-ca",
+          "text" : "make a sunny day."
+        }
+      ]
+    },
+    {
+      "slide" : [
+        {
+          "img" : "Raining.jpg",
+          "language" : "de",
+          "text" : "Erst regen,"
+        },
+        {
+          "img" : "Rainbow.jpg",
+          "language" : "de",
+          "text" : "dann Regenbogen."
+        }
+      ]
+    },
+    {
+      "slide" : [
+        {
+          "img" : "Land.jpg",
+          "language" : "de",
+          "text" : "Meer"
+        },
+        {
+          "img" : "Clouds.jpg",
+          "language" : "de",
+          "text" : "und Wolken"
+        },
+        {
+          "img" : "Sunshine.jpg",
+          "language" : "de",
+          "text" : "machen einen sonnigen Tag."
+        }
+      ]
+    },
+    {
+      "slide" : [
+        {
+          "img" : "Raining.jpg",
+          "language" : "zh-CN",
+          "text" : "首先是下雨，"
+        },
+        {
+          "img" : "Rainbow.jpg",
+          "language" : "zh-CN",
+          "text" : "然后是彩虹"
+        }
+      ]
+    },
+    {
+      "slide" : [
+        {
+          "img" : "Land.jpg",
+          "language" : "zh-CN",
+          "text" : "大海"
+        },
+        {
+          "img" : "Clouds.jpg",
+          "language" : "zh-CN",
+          "text" : "白云"
+        },
+        {
+          "img" : "Sunshine.jpg",
+          "language" : "zh-CN",
+          "text" : "带来了阳光灿烂的日子"
+        }
+      ]
+    }
+  ],
+  "tts-engine" : "google"
+}

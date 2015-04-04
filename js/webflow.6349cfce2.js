@@ -2693,18 +2693,25 @@ module.exports = function($, _) {
     }
   }
 
+  function getURLParameter(name) {
+    return decodeURIComponent((new RegExp('[?|&]' + name + '=' + '([^&;]+?)(&|#|;|$)').exec(location.search)||[,""])[1].replace(/\+/g, '%20'))||null
+  }
+
   function ready() {
     var data;
     var story;
     var on_slide = 0;
+    var url = getURLParameter('json') || "test_output.json";
+    url = url.replace("/","")
+    console.log(url);
     $.ajax({
       dataType: "json",
-      url: "test_output.json",
+      url: url,
       data: data,
       success: 
       function(result){           
             //handling of your json data
-            story = result;
+            story = result['slides'];
             console.log(story[0]);
             var buttons = "";
             for (var i = 0; i < story[0]['slide'].length; i++) {
@@ -2716,7 +2723,7 @@ module.exports = function($, _) {
               }
             }
             document.getElementById('button_container').innerHTML = buttons;
-            document.getElementById('audioplayer_source').innerHTML = '<source src="audio/s0_1.mp3" type="audio/mpeg">'; 
+            document.getElementById('audioplayer_source').innerHTML = '<source src="audio/" + url +"/s0_1.mp3" type="audio/mpeg">'; 
           }
         });
 
@@ -2761,7 +2768,7 @@ module.exports = function($, _) {
           console.log(e.currentTarget.id.split("_")[1]);
           block_found = true;
           // repeat audio
-          $("#audioplayer_source").attr("src","audio/s" + on_slide + "_" + e.currentTarget.id.split("_")[1] + ".mp3").trigger("play");
+          $("#audioplayer_source").attr("src","audio/" + url +"/s" + on_slide + "_" + e.currentTarget.id.split("_")[1] + ".mp3").trigger("play");
         } else {
           var on_last_block = false;
           for (var i = 0; i < story[on_slide]['slide'].length; i++) {
@@ -2773,9 +2780,9 @@ module.exports = function($, _) {
                 var next_block_id = block_id + 1;
                 document.getElementById('button_' + next_block_id).className = "button";
               }
-              $("#audioplayer_source").attr("src","audio/s" + on_slide + "_" + block_id + ".mp3").trigger("play");
+              $("#audioplayer_source").attr("src","audio/" + url +"/s" + on_slide + "_" + block_id + ".mp3").trigger("play");
               document.getElementById('displayed_text').innerHTML += story[on_slide]['slide'][i]['text'] + " ";
-              document.getElementById('image_container').innerHTML = '<img src="images/' + story[on_slide]['slide'][i]['img'] + '">';
+              document.getElementById('image_container').innerHTML = '<img src="images/' + url + '/' + story[on_slide]['slide'][i]['img'] + '">';
               if (i == story[on_slide]['slide'].length - 1) {
                 on_last_block = true;
                 if (on_slide == story.length - 1) {
@@ -2796,7 +2803,7 @@ module.exports = function($, _) {
           }
         }
         if (!block_found) {
-          $("#audioplayer_source").attr("src","audio/s" + on_slide + "_0.mp3").trigger("play");
+          $("#audioplayer_source").attr("src","audio/" + url +"/s" + on_slide + "_0.mp3").trigger("play");
         }
       }
     if (Webflow.env('design')) {

@@ -1,30 +1,423 @@
-[
-  {
-    "slide" : [
-      {
-        "img" : "Raining.jpg",
-        "text" : "First rain,"
-      },
-      {
-        "img" : "Rainbow.jpg",
-        "text" : "then rainbow."
-      }
-    ]
-  },
-  {
-    "slide" : [
-      {
-        "img" : "Land.jpg",
-        "text" : "Sea"
-      },
-      {
-        "img" : "Clouds.jpg",
-        "text" : "and clouds"
-      },
-      {
-        "img" : "Sunshine.jpg",
-        "text" : "make a sunny day."
-      }
-    ]
-  }
-]
+{
+  "block-type" : "words",
+  "language-default" : "en-ca",
+  "slides" : [
+    {
+      "slide" : [
+        {
+          "img" : "img0.png",
+          "text" : "Pink"
+        },
+        {
+          "img" : "img0.png",
+          "text" : "shoes"
+        },
+        {
+          "img" : "img0.png",
+          "text" : "like"
+        },
+        {
+          "img" : "img0.png",
+          "text" : "to"
+        },
+        {
+          "img" : "img0.png",
+          "text" : "walk."
+        }
+      ]
+    },
+    {
+      "slide" : [
+        {
+          "img" : "img1.png",
+          "text" : "They"
+        },
+        {
+          "img" : "img1.png",
+          "text" : "walked"
+        },
+        {
+          "img" : "img1.png",
+          "text" : "in"
+        },
+        {
+          "img" : "img1.png",
+          "text" : "a"
+        },
+        {
+          "img" : "img1.png",
+          "text" : "park"
+        },
+        {
+          "img" : "img1.png",
+          "text" : "near"
+        },
+        {
+          "img" : "img1.png",
+          "text" : "Auckland."
+        }
+      ]
+    },
+    {
+      "slide" : [
+        {
+          "img" : "img2.png",
+          "text" : "The"
+        },
+        {
+          "img" : "img2.png",
+          "text" : "park"
+        },
+        {
+          "img" : "img2.png",
+          "text" : "has"
+        },
+        {
+          "img" : "img2.png",
+          "text" : "no"
+        },
+        {
+          "img" : "img2.png",
+          "text" : "dogs."
+        }
+      ]
+    },
+    {
+      "slide" : [
+        {
+          "img" : "img3.png",
+          "text" : "It"
+        },
+        {
+          "img" : "img3.png",
+          "text" : "is"
+        },
+        {
+          "img" : "img3.png",
+          "text" : "a"
+        },
+        {
+          "img" : "img3.png",
+          "text" : "farm."
+        }
+      ]
+    },
+    {
+      "slide" : [
+        {
+          "img" : "img4.png",
+          "text" : "Grass"
+        },
+        {
+          "img" : "img4.png",
+          "text" : "grows"
+        },
+        {
+          "img" : "img4.png",
+          "text" : "on"
+        },
+        {
+          "img" : "img4.png",
+          "text" : "the"
+        },
+        {
+          "img" : "img4.png",
+          "text" : "hills."
+        }
+      ]
+    },
+    {
+      "slide" : [
+        {
+          "img" : "img5.png",
+          "text" : "Sheep"
+        },
+        {
+          "img" : "img5.png",
+          "text" : "eat"
+        },
+        {
+          "img" : "img5.png",
+          "text" : "the"
+        },
+        {
+          "img" : "img5.png",
+          "text" : "grass."
+        }
+      ]
+    },
+    {
+      "slide" : [
+        {
+          "img" : "img6.png",
+          "text" : "The park"
+        },
+        {
+          "img" : "img6.png",
+          "text" : "has"
+        },
+        {
+          "img" : "img6.png",
+          "text" : "long"
+        },
+        {
+          "img" : "img6.png",
+          "text" : "roads."
+        }
+      ]
+    },
+    {
+      "slide" : [
+        {
+          "img" : "img7.png",
+          "text" : "Signs"
+        },
+        {
+          "img" : "img7.png",
+          "text" : "show"
+        },
+        {
+          "img" : "img7.png",
+          "text" : "where"
+        },
+        {
+          "img" : "img7.png",
+          "text" : "to"
+        },
+        {
+          "img" : "img7.png",
+          "text" : "go."
+        }
+      ]
+    },
+    {
+      "slide" : [
+        {
+          "img" : "img8.png",
+          "text" : "Pink shoes like to walk"
+        },
+        {
+          "img" : "img8.png",
+          "text" : "on"
+        },
+        {
+          "img" : "img8.png",
+          "text" : "the"
+        },
+        {
+          "img" : "img8.png",
+          "text" : "grass."
+        }
+      ]
+    },
+    {
+      "slide" : [
+        {
+          "img" : "img9.png",
+          "text" : "Sheep"
+        },
+        {
+          "img" : "img9.png",
+          "text" : "cannot"
+        },
+        {
+          "img" : "img9.png",
+          "text" : "open"
+        },
+        {
+          "img" : "img9.png",
+          "text" : "the"
+        },
+        {
+          "img" : "img9.png",
+          "text" : "gate."
+        }
+      ]
+    },
+    {
+      "slide" : [
+        {
+          "img" : "img10.png",
+          "text" : "Pink shoes like"
+        },
+        {
+          "img" : "img10.png",
+          "text" : "the"
+        },
+        {
+          "img" : "img10.png",
+          "text" : "view."
+        }
+      ]
+    },
+    {
+      "slide" : [
+        {
+          "img" : "img11.png",
+          "text" : "This"
+        },
+        {
+          "img" : "img11.png",
+          "text" : "is"
+        },
+        {
+          "img" : "img11.png",
+          "text" : "the"
+        },
+        {
+          "img" : "img11.png",
+          "text" : "bay."
+        },
+        {
+          "img" : "img11.png",
+          "text" : "The"
+        },
+        {
+          "img" : "img11.png",
+          "text" : "tide"
+        },
+        {
+          "img" : "img11.png",
+          "text" : "is"
+        },
+        {
+          "img" : "img11.png",
+          "text" : "out."
+        }
+      ]
+    },
+    {
+      "slide" : [
+        {
+          "img" : "img12.png",
+          "text" : "Sheep eat the grass"
+        },
+        {
+          "img" : "img12.png",
+          "text" : "near"
+        },
+        {
+          "img" : "img12.png",
+          "text" : "the"
+        },
+        {
+          "img" : "img12.png",
+          "text" : "bay."
+        }
+      ]
+    },
+    {
+      "slide" : [
+        {
+          "img" : "img13.png",
+          "text" : "Pink shoes like the view"
+        },
+        {
+          "img" : "img13.png",
+          "text" : "here"
+        },
+        {
+          "img" : "img13.png",
+          "text" : "too."
+        }
+      ]
+    },
+    {
+      "slide" : [
+        {
+          "img" : "img14.png",
+          "text" : "The"
+        },
+        {
+          "img" : "img14.png",
+          "text" : "sun"
+        },
+        {
+          "img" : "img14.png",
+          "text" : "sparkles"
+        },
+        {
+          "img" : "img14.png",
+          "text" : "on"
+        },
+        {
+          "img" : "img14.png",
+          "text" : "the"
+        },
+        {
+          "img" : "img14.png",
+          "text" : "bay."
+        }
+      ]
+    },
+    {
+      "slide" : [
+        {
+          "img" : "img15.png",
+          "text" : "The"
+        },
+        {
+          "img" : "img15.png",
+          "text" : "park"
+        },
+        {
+          "img" : "img15.png",
+          "text" : "has"
+        },
+        {
+          "img" : "img15.png",
+          "text" : "water"
+        },
+        {
+          "img" : "img15.png",
+          "text" : "on"
+        },
+        {
+          "img" : "img15.png",
+          "text" : "both"
+        },
+        {
+          "img" : "img15.png",
+          "text" : "sides."
+        }
+      ]
+    },
+    {
+      "slide" : [
+        {
+          "img" : "img16.png",
+          "text" : "Pink shoes"
+        },
+        {
+          "img" : "img16.png",
+          "text" : "rest"
+        },
+        {
+          "img" : "img16.png",
+          "text" : "here."
+        },
+        {
+          "img" : "img16.png",
+          "text" : "They"
+        },
+        {
+          "img" : "img16.png",
+          "text" : "will"
+        },
+        {
+          "img" : "img16.png",
+          "text" : "walk"
+        },
+        {
+          "img" : "img16.png",
+          "text" : "again"
+        },
+        {
+          "img" : "img16.png",
+          "text" : "tomorrow."
+        }
+      ]
+    }
+  ],
+  "tts-engine" : "google"
+}
