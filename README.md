@@ -65,7 +65,7 @@ Prefer your own voice? Use a sound file editor to create .mp3 files with names f
 With Python 2:
 
 ```
-$ git clone https://github.com/jg1141/words_and_pictures.git
+$ git clone https://github.com/jg1141/jg1141.github.io.git
 $ cd words_and_pictures
 $ python -m SimpleHTTPServer
 ```
