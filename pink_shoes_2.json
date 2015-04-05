@@ -1,0 +1,431 @@
+{
+  "block-type" : "words",
+  "language-default" : "en-ca",
+  "slides" : [
+    {
+      "slide" : [
+        {
+          "img" : "img0.png",
+          "text" : "Pink"
+        },
+        {
+          "img" : "img0.png",
+          "text" : "shoes"
+        },
+        {
+          "img" : "img0.png",
+          "text" : "like"
+        },
+        {
+          "img" : "img0.png",
+          "text" : "to"
+        },
+        {
+          "img" : "img0.png",
+          "text" : "walk."
+        }
+      ]
+    },
+    {
+      "slide" : [
+        {
+          "img" : "img1.png",
+          "text" : "They"
+        },
+        {
+          "img" : "img1.png",
+          "text" : "walked"
+        },
+        {
+          "img" : "img1.png",
+          "text" : "to"
+        },
+        {
+          "img" : "img1.png",
+          "text" : "a"
+        },
+        {
+          "img" : "img1.png",
+          "text" : "park"
+        },
+        {
+          "img" : "img1.png",
+          "text" : "in"
+        },
+        {
+          "img" : "img1.png",
+          "text" : "Auckland."
+        }
+      ]
+    },
+    {
+      "slide" : [
+        {
+          "img" : "img2.png",
+          "text" : "The"
+        },
+        {
+          "img" : "img2.png",
+          "text" : "park"
+        },
+        {
+          "img" : "img2.png",
+          "text" : "is"
+        },
+        {
+          "img" : "img2.png",
+          "text" : "Oakley"
+        },
+        {
+          "img" : "img2.png",
+          "text" : "Creek."
+        }
+      ]
+    },
+    {
+      "slide" : [
+        {
+          "img" : "img3.png",
+          "text" : "A"
+        },
+        {
+          "img" : "img3.png",
+          "text" : "path"
+        },
+        {
+          "img" : "img3.png",
+          "text" : "leads"
+        },
+        {
+          "img" : "img3.png",
+          "text" : "down"
+        },
+        {
+          "img" : "img3.png",
+          "text" : "to"
+        },
+        {
+          "img" : "img3.png",
+          "text" : "the"
+        },
+        {
+          "img" : "img3.png",
+          "text" : "creek."
+        }
+      ]
+    },
+    {
+      "slide" : [
+        {
+          "img" : "img4.png",
+          "text" : "The path"
+        },
+        {
+          "img" : "img4.png",
+          "text" : "passes"
+        },
+        {
+          "img" : "img4.png",
+          "text" : "a"
+        },
+        {
+          "img" : "img4.png",
+          "text" : "lamp"
+        },
+        {
+          "img" : "img4.png",
+          "text" : "post."
+        }
+      ]
+    },
+    {
+      "slide" : [
+        {
+          "img" : "img5.png",
+          "text" : "Pink shoes"
+        },
+        {
+          "img" : "img5.png",
+          "text" : "walk"
+        },
+        {
+          "img" : "img5.png",
+          "text" : "down"
+        },
+        {
+          "img" : "img5.png",
+          "text" : "the"
+        },
+        {
+          "img" : "img5.png",
+          "text" : "stairs."
+        }
+      ]
+    },
+    {
+      "slide" : [
+        {
+          "img" : "img6.png",
+          "text" : "The creek"
+        },
+        {
+          "img" : "img6.png",
+          "text" : "is"
+        },
+        {
+          "img" : "img6.png",
+          "text" : "pretty."
+        }
+      ]
+    },
+    {
+      "slide" : [
+        {
+          "img" : "img7.png",
+          "text" : "Sometimes"
+        },
+        {
+          "img" : "img7.png",
+          "text" : "the creek"
+        },
+        {
+          "img" : "img7.png",
+          "text" : "is"
+        },
+        {
+          "img" : "img7.png",
+          "text" : "smooth."
+        }
+      ]
+    },
+    {
+      "slide" : [
+        {
+          "img" : "img8.png",
+          "text" : "Pink shoes like to walk"
+        },
+        {
+          "img" : "img8.png",
+          "text" : "across"
+        },
+        {
+          "img" : "img8.png",
+          "text" : "the"
+        },
+        {
+          "img" : "img8.png",
+          "text" : "bridge."
+        }
+      ]
+    },
+    {
+      "slide" : [
+        {
+          "img" : "img9.png",
+          "text" : "The bridge"
+        },
+        {
+          "img" : "img9.png",
+          "text" : "is"
+        },
+        {
+          "img" : "img9.png",
+          "text" : "made"
+        },
+        {
+          "img" : "img9.png",
+          "text" : "of"
+        },
+        {
+          "img" : "img9.png",
+          "text" : "wood."
+        }
+      ]
+    },
+    {
+      "slide" : [
+        {
+          "img" : "img10.png",
+          "text" : "Ducks"
+        },
+        {
+          "img" : "img10.png",
+          "text" : "swim"
+        },
+        {
+          "img" : "img10.png",
+          "text" : "in"
+        },
+        {
+          "img" : "img10.png",
+          "text" : "the creek."
+        }
+      ]
+    },
+    {
+      "slide" : [
+        {
+          "img" : "img11.png",
+          "text" : "Sometimes the creek is"
+        },
+        {
+          "img" : "img11.png",
+          "text" : "so"
+        },
+        {
+          "img" : "img11.png",
+          "text" : "smooth"
+        },
+        {
+          "img" : "img11.png",
+          "text" : "you"
+        },
+        {
+          "img" : "img11.png",
+          "text" : "can"
+        },
+        {
+          "img" : "img11.png",
+          "text" : "see"
+        },
+        {
+          "img" : "img11.png",
+          "text" : "clouds."
+        }
+      ]
+    },
+    {
+      "slide" : [
+        {
+          "img" : "img12.png",
+          "text" : "The creek"
+        },
+        {
+          "img" : "img12.png",
+          "text" : "has"
+        },
+        {
+          "img" : "img12.png",
+          "text" : "a"
+        },
+        {
+          "img" : "img12.png",
+          "text" : "waterfall."
+        }
+      ]
+    },
+    {
+      "slide" : [
+        {
+          "img" : "img13.png",
+          "text" : "Pink shoes"
+        },
+        {
+          "img" : "img13.png",
+          "text" : "like"
+        },
+        {
+          "img" : "img13.png",
+          "text" : "the"
+        },
+        {
+          "img" : "img13.png",
+          "text" : "waterfall."
+        }
+      ]
+    },
+    {
+      "slide" : [
+        {
+          "img" : "img14.png",
+          "text" : "Pink shoes walk"
+        },
+        {
+          "img" : "img14.png",
+          "text" : "up"
+        },
+        {
+          "img" : "img14.png",
+          "text" : "the stairs."
+        }
+      ]
+    },
+    {
+      "slide" : [
+        {
+          "img" : "img15.png",
+          "text" : "The"
+        },
+        {
+          "img" : "img15.png",
+          "text" : "trees"
+        },
+        {
+          "img" : "img15.png",
+          "text" : "look"
+        },
+        {
+          "img" : "img15.png",
+          "text" : "like"
+        },
+        {
+          "img" : "img15.png",
+          "text" : "fireworks."
+        }
+      ]
+    },
+    {
+      "slide" : [
+        {
+          "img" : "img16.png",
+          "text" : "The"
+        },
+        {
+          "img" : "img16.png",
+          "text" : "grass"
+        },
+        {
+          "img" : "img16.png",
+          "text" : "is"
+        },
+        {
+          "img" : "img16.png",
+          "text" : "very"
+        },
+        {
+          "img" : "img16.png",
+          "text" : "green."
+        }
+      ]
+    },
+    {
+      "slide" : [
+        {
+          "img" : "img17.png",
+          "text" : "Pink shoes like to walk."
+        },
+        {
+          "img" : "img17.png",
+          "text" : "They"
+        },
+        {
+          "img" : "img17.png",
+          "text" : "will"
+        },
+        {
+          "img" : "img17.png",
+          "text" : "walk"
+        },
+        {
+          "img" : "img17.png",
+          "text" : "again"
+        },
+        {
+          "img" : "img17.png",
+          "text" : "tomorrow."
+        }
+      ]
+    }
+  ],
+  "tts-engine" : "google"
+}
