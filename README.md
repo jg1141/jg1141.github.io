@@ -13,6 +13,8 @@ The words (or phonemes) are separated into *blocks*.
 
 See [demo](http://jg1141.github.io/) with 16 slides, telling a "Pink Shoes" adventure story. 
 
+Production time on these stories is remarkably short. [Pink Shoes 2](http://jg1141.github.io//?json=pink_shoes_2_output.json/) was started at 4 pm and completed by 7:15 pm.
+
 Other demos show presentation of [phonemes](http://jg1141.github.io//?json=phonemes_output.json/) and [multiple languages](http://jg1141.github.io//?json=languages_output.json/).
 
 ##JSON Format for Linking Pictures (img) to Words (text)
