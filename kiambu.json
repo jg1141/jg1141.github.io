@@ -1,0 +1,55 @@
+{
+  "block-type" : "words",
+  "language-default" : "sw",
+  "slides" : [
+    {
+      "slide" : [
+        {
+          "img" : "img0.png",
+          "text" : "Hii"
+        },
+        {
+          "img" : "img0.png",
+          "text" : "ni"
+        },
+        {
+          "img" : "img0.png",
+          "text" : "mji"
+        },
+        {
+          "img" : "img0.png",
+          "text" : "wa"
+        },
+        {
+          "img" : "img0.png",
+          "text" : "Kiambu."
+        }
+      ]
+    },
+    {
+      "slide" : [
+        {
+          "img" : "img0.png",
+          "text" : "Hii"
+        },
+        {
+          "img" : "img0.png",
+          "text" : "ni"
+        },
+        {
+          "img" : "img0.png",
+          "text" : "mji"
+        },
+        {
+          "img" : "img0.png",
+          "text" : "wa"
+        },
+        {
+          "img" : "img0.png",
+          "text" : "Kiambu."
+        }
+      ]
+    }
+  ],
+  "tts-engine" : "google"
+}
