@@ -1,0 +1,31 @@
+{
+  "block-type" : "words",
+  "language-default" : "ru",
+  "slides" : [
+    {
+      "slide" : [
+        {
+          "img" : "img0.png",
+          "text" : "мне"
+        },
+        {
+          "img" : "img0.png",
+          "text" : "очень"
+        },
+        {
+          "img" : "img0.png",
+          "text" : "нравиться "
+        },
+        {
+          "img" : "img0.png",
+          "text" : "ваш"
+        },
+        {
+          "img" : "img0.png",
+          "text" : "проект."
+        }
+      ]
+    }
+  ],
+  "tts-engine" : "google"
+}
