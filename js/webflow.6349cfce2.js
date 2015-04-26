@@ -2782,7 +2782,11 @@ module.exports = function($, _) {
               }
               $("#audioplayer_source").attr("src","audio/" + url +"/s" + on_slide + "_" + block_id + ".mp3").trigger("play");
               document.getElementById('displayed_text').innerHTML += story[on_slide]['slide'][i]['text'] + " ";
-              document.getElementById('image_container').innerHTML = '<img src="images/' + url + '/' + story[on_slide]['slide'][i]['img'] + '">';
+              if (story[on_slide]['slide'][i]['img'].lastIndexOf('http', 0) === 0) {
+                document.getElementById('image_container').innerHTML = '<img src="' + story[on_slide]['slide'][i]['img'] + '">';
+              } else {
+                 document.getElementById('image_container').innerHTML = '<img src="images/' + url + '/' + story[on_slide]['slide'][i]['img'] + '">';
+              }
               if (i == story[on_slide]['slide'].length - 1) {
                 on_last_block = true;
                 if (on_slide == story.length - 1) {
