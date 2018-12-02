@@ -1,0 +1,9 @@
+region,median,iqr_low,iqr_high
+United States,112000,87000,140000
+Western Europe,57000,40000,80000
+Asia,35000,16000,100000
+Eastern Europe,27000,16500,35000
+Canada,63000,50000,81000
+Latin America,25000,14000,55000
+Australia/NZ,100000,70000,120000
+Other,34000,13000,51000

@@ -1,0 +1,15 @@
+outlook,temp,humidity,windy,hours_played
+Rainy,Hot,High,False,25
+Rainy,Hot,High,True,30
+Overcast,Hot,High,False,46
+Sunny,Mild,High,False,45
+Sunny,Cool,Normal,False,52
+Sunny,Cool,Normal,True,23
+Overcast,Cool,Normal,True,43
+Rainy,Mild,High,False,35
+Rainy,Cool,Normal,False,38
+Sunny,Mild,Normal,False,46
+Rainy,Mild,Normal,True,48
+Overcast,Mild,High ,True,52
+Overcast,Hot,Normal,False,44
+Sunny,Mild,High,True,30

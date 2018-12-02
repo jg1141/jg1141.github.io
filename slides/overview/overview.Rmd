@@ -1,0 +1,38 @@
+---
+title: "Introduction to Data Science"
+subtitle: "Tech Futures Lab"
+author: "Dr Stefan Schliebs"
+date: "2 August 2018"
+output: 
+  ioslides_presentation: 
+    widescreen: yes
+editor_options: 
+  chunk_output_type: console
+---
+
+```{r setup, include=FALSE, warning=FALSE, message=FALSE, error=FALSE}
+knitr::opts_chunk$set(
+  echo = FALSE,
+  fig.width=8, fig.height=3.8,
+  fig.align="center",
+  dpi=120
+)
+
+```
+
+
+## About me
+
+>- Chief Data Scientist at Quantiful
+>- \>10 years experience in academic and commercial data science environments
+>- Founder of the Data Science Academy
+>- Co-organizer of R User Meetup Group
+
+
+
+## Course Overview
+
+1. Session -- Introduction to Data Science
+2. Session -- Data Science Process
+3. Session -- Create a dashboard in R
+
