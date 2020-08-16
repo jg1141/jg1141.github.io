@@ -1,0 +1,76 @@
+/**
+ * High contrast style sheet
+ *
+ * This style sheet only operate as intended if all other style sheets are
+ * disabled.
+ */
+
+* {
+  color:yellow !important;
+  border-color: yellow !important;
+  background:black !important;
+  width:auto !important;
+  height: auto !important;
+  float:none !important;
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+
+body {
+  padding: 0 0 0 50px;
+  margin: 0;
+}
+
+a:link {
+  color: #ffff00;
+}
+
+a:visited {
+  color: #ffff99;
+}
+
+a:hover,
+a:focus,
+a:active {
+  color: #000000;
+  background-color: #ffff00;
+}
+
+a img {
+  border: 2px solid #ffff00;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  margin-top: 0;
+}
+
+#page {
+  font-size: 1.5em !important;
+}
+
+.contextual-links-wrapper,
+.navbar-toggle {
+  display:none !important;
+}
+
+#toolbar {
+  font-size: 1.5em !important;
+}
+
+input {
+  color: black !important;
+  background-color: yellow !important;
+}
+
+header {
+  height: auto !important;
+  clear: both !important;
+}
+
+.fluid-width-video-wrapper {
+  padding: 0 !important;
+}
+
+img {
+  background-color: #ffffff !important;
+  margin: 0.5em !important;
+}

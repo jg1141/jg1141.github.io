@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+* {
+  box-sizing: border-box;
+}
+
+/* Create three equal columns that floats next to each other */
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 10px;
+  height: 300px; /* Should be removed. Only for demonstration */
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+</style>
+</head>
+<body>
+
+<h2>New Zealand Pandemics</h2>
+<h3>Lessons from History for the Future</h3>
+<a href="https://youtu.be/g7e74JsqBnQ">Video</a>
+<hr>
+
+<div class="row">
+  <div class="column" style="background-color:#aaa;">
+    <h2>1918</h2>
+    <p>An <a href="Spanish flu _ Ministry of Health NZ.html">"historical fiction"</a> showing today's COVID-19 tracking dashboard re-imagined with data from the 1918 Spanish Flu pandemic.</p>
+  </div>
+  <div class="column" style="background-color:#bbb;">
+    <h2>2020</h2>
+    <p><a href="https://www.health.govt.nz/our-work/diseases-and-conditions/covid-19-novel-coronavirus/covid-19-current-situation/covid-19-current-cases">Here</a> is the actual COVID-19 dashboard from the Ministry of Health</p>
+  </div>
+  <div class="column" style="background-color:#ccc;">
+    <h2>2122</h2>
+    <p>An <a href="COVID-2122 _ Ministry of Health NZ.html">"historical fiction"</a> showing today's COVID-19 tracking dashboard re-imagined with data from an imagined outbreak 102 years in the future (COVID-2122).</p>
+  </div>
+</div>
+
+</body>
+</html>
